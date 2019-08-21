@@ -1,18 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.02e58a01.chunk.css",
-    "main.js": "/static/js/main.ccb97bc0.chunk.js",
-    "main.js.map": "/static/js/main.ccb97bc0.chunk.js.map",
+    "main.css": "/static/css/main.6c73c310.chunk.css",
+    "main.js": "/static/js/main.9dfd144d.chunk.js",
+    "main.js.map": "/static/js/main.9dfd144d.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b20c771b.chunk.js": "/static/js/2.b20c771b.chunk.js",
-    "static/js/2.b20c771b.chunk.js.map": "/static/js/2.b20c771b.chunk.js.map",
+    "static/js/2.d59df26d.chunk.js": "/static/js/2.d59df26d.chunk.js",
+    "static/js/2.d59df26d.chunk.js.map": "/static/js/2.d59df26d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4df1307045ca1e10d31fb09fc43591dd.js": "/precache-manifest.4df1307045ca1e10d31fb09fc43591dd.js",
+    "precache-manifest.8a4c09cd1c86afc1c0c3f43807728d30.js": "/precache-manifest.8a4c09cd1c86afc1c0c3f43807728d30.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.02e58a01.chunk.css.map": "/static/css/main.02e58a01.chunk.css.map",
+    "static/css/main.6c73c310.chunk.css.map": "/static/css/main.6c73c310.chunk.css.map",
+    "static/media/education.css": "/static/media/oulu_university2.624b8753.png",
+    "static/media/baseline-assignment_turned_in-24px.7e277b29.svg": "/static/media/baseline-assignment_turned_in-24px.7e277b29.svg",
+    "static/media/baseline-code-24px.74f0e940.svg": "/static/media/baseline-code-24px.74f0e940.svg",
+    "static/media/baseline-group-24px.a1a1234d.svg": "/static/media/baseline-group-24px.a1a1234d.svg",
+    "static/media/baseline-home-24px.5924881c.svg": "/static/media/baseline-home-24px.5924881c.svg",
+    "static/media/baseline-keyboard_arrow_left-64px.c20b3827.svg": "/static/media/baseline-keyboard_arrow_left-64px.c20b3827.svg",
+    "static/media/baseline-keyboard_arrow_right-64px.6549d371.svg": "/static/media/baseline-keyboard_arrow_right-64px.6549d371.svg",
+    "static/media/baseline-memory-24px.754a73b8.svg": "/static/media/baseline-memory-24px.754a73b8.svg",
+    "static/media/baseline-person-24px.25cabb35.svg": "/static/media/baseline-person-24px.25cabb35.svg",
     "static/media/containers.css": "/static/media/code_bg_2.7703590f.png",
+    "static/media/cvInfo.css": "/static/media/code_bg_75.ebab39d7.png",
     "static/media/nodeLogo.png": "/static/media/nodeLogo.38c3a911.png",
-    "static/media/reactLogo.svg": "/static/media/reactLogo.5d5d9eef.svg"
+    "static/media/reactLogo.svg": "/static/media/reactLogo.5d5d9eef.svg",
+    "static/media/tab-selected.5bd1fe28.svg": "/static/media/tab-selected.5bd1fe28.svg",
+    "static/media/tab-unselected.5bd1fe28.svg": "/static/media/tab-unselected.5bd1fe28.svg"
   }
 }
